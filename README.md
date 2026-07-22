@@ -1,5 +1,7 @@
 # Frazer Pay My Car Portal Demo
 
+**Live demo:** https://chavens77.github.io/frazer-pay-my-car-portal-demo/
+
 This public repository contains only the compiled static assets for the Frazer Pay My Car interactive design prototype hosted with GitHub Pages.
 
 The editable React and TypeScript source is maintained separately in a private repository. All people, accounts, balances, payment methods, insurance records, and transactions shown by this demo are fictional. The demo does not process payments, send verification messages, or store uploaded documents.
